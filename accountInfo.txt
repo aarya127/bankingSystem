@@ -1,0 +1,4 @@
+1,Greg Reid,500.00,ChequingAccount,
+2,Eric Medina,345.56,SeniorChildAccount,
+3,Aarya Shah,78.45,SavingsAccount,
+4,Ben Stokes, 2.24, SeniorChildAccount,
